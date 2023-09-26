@@ -28,7 +28,10 @@ paragraph =  """I have three visions for India. In 3000 years of our history, pe
                space, Professor Satish Dhawan, who succeeded him and Dr. Brahm Prakash, father of nuclear material.
                I was lucky to have worked with all three of them closely and consider this the great opportunity of my life. 
                I see four milestones in my career"""
-
+#Кол-во разработчиков – 1
+#Кол-во веток – 1
+#Регулярность использования – 4
+#Кол-во копирований – 1
 import re
 import nltk
 from nltk.corpus import stopwords
